@@ -1,6 +1,6 @@
 var $body = $('body');
 
-$('html').on ('keydown', function (){
+$('html').on('keydown', function () {
   var $div = $('<div>');
 
   $body.append($div);
